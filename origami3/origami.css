@@ -1,0 +1,22 @@
+body{
+background-color: black;
+}
+.description{
+    color: chartreuse;
+    font-size: larger;
+    font-weight: bolder;
+}
+.fimg:hover img{
+opacity: 0.33;
+}
+.simg:hover img{
+    opacity: 0.33;
+    }
+    .timg:hover img{
+        opacity: 0.33;
+        }
+    
+.mark{
+background-color: lightgreen;
+color: darkgreen;
+}

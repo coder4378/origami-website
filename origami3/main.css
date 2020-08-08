@@ -1,0 +1,25 @@
+
+.main header{
+color: magenta;
+}
+.p1{
+   color: chartreuse;
+   font-size:larger ;
+   font-weight: bolder;
+}
+.p2{
+color: cyan;
+font-size: larger;
+font-weight: bolder;
+}
+body{
+background-image: url("images/bg.jpg");
+background-repeat: no-repeat;
+background-color: black;
+}
+.mark{
+   background-color: lightgreen;
+   color: darkgreen;
+   }
+
+
